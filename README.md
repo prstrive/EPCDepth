@@ -4,7 +4,7 @@ EPCDepth is a self-supervised monocular depth estimation model, whose supervisio
 >
 > Rui Peng, Ronggang Wang, Yawen Lai, Luyang Tang, Yangang Cai
 >
-> ICCV 2021
+> ICCV 2021 ([arxiv](https://arxiv.org/abs/2109.12484))
 
 <p align="center">
     <img src="./.github/images/sample.png" width="80%"/>
