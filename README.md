@@ -199,7 +199,7 @@ python main.py
     --data_path <your kitti path> --model_dir <checkpoint save dir> 
     --logs_dir <tensorboard save dir> --pretrained --post_process 
     --use_depth_hint --use_spp_distillation --use_data_graft 
-    --use_full_scale --gpu_ids 0
+    --use_full_scale
 ```
 
 ## 🔧 Suggestion
